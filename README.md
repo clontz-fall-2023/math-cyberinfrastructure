@@ -6,7 +6,8 @@
 - Instructor
     - Dr. Steven Clontz
     - I prefer to be called "Dr./Prof. Clontz" or "Dr./Prof. C", and use "he/him" pronouns.
-    - Canvas messages/comments are the preferred method of communication, but call my office phone 251-460-6757
+    - GitHub discussions/issues are the preferred method of communication, but Canvas messages should
+      be used for private communications, and call my office phone 251-460-6757
       to access drop-in office hours while the office area is locked.
 - Schedule
     - Tue 10:45am-1:00pm
