@@ -40,10 +40,11 @@ for mathematics communication.
 - Week 7: Jupyter Notebooks
 - Week 8: SpaTeXt and CheckIt
 - Week 9: Mathematical databases
-- Week 10: Formalized mathematics in Lean
-- Week 11: Copyright and licensing
-- Weeks 12&13: Euler Problems
-- Weeks 14&15: Flex and ePortfolio writing/feedback
+- Week 10: Large Language Models (ChatGPT)
+- Week 11: Formalized mathematics in Lean
+- Week 12: Copyright and licensing
+- Weeks 13&14: Euler Problems
+- Weeks 15: Flex and ePortfolio writing/feedback
 
 After each week’s meeting, students will be assigned homework that will be incorporated into their course ePortfolio. Homework submitted on time will receive feedback from the instructor, to help ensure submissions will meet expectations when the ePortfolio is assessed.
 
