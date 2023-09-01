@@ -32,7 +32,7 @@ for mathematics communication.
 ## Course Outline (tentative)
 
 - Week 1: GitHub, Codespaces, and Markdown
-- Week 2: StackExchange Network
+- Week 2: GitHub cont., and the StackExchange Network
 - Week 3: Infrastructure of the modern web
 - Week 4: LaTeX and PreTeXt
 - Week 5: Python
