@@ -18,7 +18,7 @@
         - MSPB 314 / Zoom by request
     - Fri 1:35pm-2:35pm
         - Student Drop-in Office Hours
-        - MSPB 360
+        - MSPB 314
     - Fri 2:35pm-3:25pm
         - Class Activities
         - MSPB 360
@@ -29,7 +29,9 @@ Exploration of technologies used to research and communicate modern mathematics,
 markup languages and processing tools, databases, proof verification systems, version control systems, and web-based mechanisms
 for mathematics communication.
 
-## Course Outline (tentative)
+## Course Outline 
+
+This schedule is tentative - head to our [Discussion board](https://github.com/clontz-fall-2023/math-cyberinfrastructure/discussions) for actual events.
 
 - Week 1: GitHub, Codespaces, and Markdown
 - Week 2: GitHub cont., and the StackExchange Network
